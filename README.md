@@ -21,6 +21,10 @@ SEND TO DISCORD - TELEGRAM;
 ```
 STATUS - FUD;
 
+Completed Tasks:
+```
+Unique String Encryption - Finished - Unique For Every Built Application;```
+
 Join Server To Give Me Features Idea`s:
 https://discord.gg/58ntudVCR2
 
