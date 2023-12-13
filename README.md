@@ -3,6 +3,8 @@ Visually Stealer, C++ based Stealer - Directx 11 ImGui Interface
 
 Project In Development - UpComing Features And how it works
 
+It`s Gonna Have A Menu For Easier Interaction;
+
 FEATURES:
 ```
 Crypto Wallet Stealer
