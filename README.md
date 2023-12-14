@@ -23,7 +23,11 @@ STATUS - FUD;
 
 Completed Tasks:
 ```
-Unique String Encryption - Finished - Unique For Every Built Application;```
+Unique String Encryption - Finished - Unique For Every Built Application;
+```
+
+![image](https://github.com/3Vathl/Visually-Stealer/assets/149960006/8fc79d51-1d46-49eb-88a5-248a565588cf)
+
 
 Join Server To Give Me Features Idea`s:
 https://discord.gg/58ntudVCR2
